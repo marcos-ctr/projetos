@@ -1,0 +1,39 @@
+body {
+  background: rgb(255, 0, 0);
+}
+
+h1#titulo-gerenciador {
+  color:rgb(255, 255, 255);
+  font-size: 32px;
+  text-align: center;
+}
+form#form-cadastro {
+    padding: 19px;
+    background: rgb(94, 4, 4);
+    border-radius: 10px;
+}
+input#campo {
+      padding: 7px;
+    background: rgb(255, 255, 255);
+    border-radius: 4px;
+    border: 1px outset
+}
+button#cadastro {
+ padding: 10px;
+background: rgb(0, 0, 0);
+color: rgb(221, 6, 6);
+border-radius: 5px;
+cursor: pointer;
+}
+
+button#cadastro:hover {
+  background: rgb(255, 255, 255);
+  color: rgb(221, 6, 6);
+}
+
+li#lista-tarefas {
+     padding: 10px;
+background: rgb(77, 1, 1);
+color: rgb(255, 255, 255);
+border-radius: 5px;
+}
